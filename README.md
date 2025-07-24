@@ -1,2 +1,2 @@
-# devjr
-Repositorio do curso de python
+# DevJunior
+Repositorio do curso de python - CursoEmVideo
